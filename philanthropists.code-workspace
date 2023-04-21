@@ -1,11 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "../../../Users/VVISH/OneDrive/Documents/GitHub/philanthropists"
+			"path": "."
 		},
 		{
-			"path": "."
+			"path": "../../../../../../xampp/htdocs/bitproj/img"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "philanthropists"
+	}
 }
